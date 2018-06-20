@@ -57,3 +57,24 @@ def bmi(weight, name):
 
 bmi(25, "jeremiah")
 bmi(5999, "Ray")
+
+
+
+	import random
+
+	randomnumber = random.randint(1,10)
+	tries = 1
+	uname = input("hello,what's your username")
+	print("hello",uname + ",", )
+	question = input("wanna play a game? [Y/N]")
+	if question == "n":
+		print("oh...ok")
+		if question =="y":
+			print("im thinking of a number between 1 and 10")
+			guess = int(input("take a guess"))
+			if guess > number
+			print("lower")
+			if guess > number:
+				print("guess higher")
+				while guess != 1
+				gues = int(input)
