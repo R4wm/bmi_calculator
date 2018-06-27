@@ -36,12 +36,8 @@ jeremiah(name=jeremiah,age=13)
 
 
 
-class Car:
-	variable = ("180mph, dodge, srt10")
-
-	def function("TOP_SPEED")
-		print("hello im a car i go 180mph, i am a dodge, and im a srt10")
-
-myobjectx = Car()
-
-print(myobjectx.variable)
+class car:
+	def __init__(TOP_SPEED, make, model):
+		TOP_SPEED.180
+		make.Dodge
+		model.srx10
