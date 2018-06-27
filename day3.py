@@ -36,8 +36,9 @@ jeremiah(name=jeremiah,age=13)
 
 
 
+
 class car:
+	car = "cool"
 	def __init__(TOP_SPEED, make, model):
-		TOP_SPEED.180
-		make.Dodge
-		model.srx10
+c = car(180,dodge,srx10)
+c.car
